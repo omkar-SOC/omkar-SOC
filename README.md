@@ -1,60 +1,79 @@
-👋 Hi, I'm Omkar Shinde
+# 👋 Hi, I'm Omkar Shinde  
+**Aspiring SOC Analyst | Cybersecurity Enthusiast**
 
-Aspiring SOC Analyst | Cybersecurity Enthusiast
+I am currently pursuing the **Google Cybersecurity Professional Certificate** and building practical cybersecurity skills through hands-on learning platforms.
 
-I am currently pursuing the Google Cybersecurity Professional Certificate and building hands-on skills through structured learning and practical labs.
+With an engineering background, I bring strong analytical thinking, structured problem-solving, and a disciplined approach to understanding security threats and system monitoring.
 
-With an engineering background, I bring analytical thinking and a problem-solving approach to understanding security threats, monitoring systems, and incident response.
+---
 
-📚 Cybersecurity Learning
-🔹 Google Cybersecurity Professional Certificate (In Progress)
-✅ Foundations of Cybersecurity
-🔄 Play It Safe – Manage Security Risks
+## 📚 Cybersecurity Learning
 
-Core concepts covered:
+### 🔹 Google Cybersecurity Professional Certificate (In Progress)
+- ✅ Foundations of Cybersecurity  
+- 🔄 Play It Safe – Manage Security Risks  
 
-Cybersecurity principles and threat landscape
-Security analyst roles and responsibilities
-Security frameworks and controls (NIST, CIS)
-Security domains and risk management
-Common tools and programming concepts
+**Key topics covered:**
+- Cybersecurity fundamentals and threat landscape  
+- Security analyst roles and responsibilities  
+- Security domains  
+- Security frameworks and controls (NIST, CIS)  
+- Risk management concepts  
+- Common cybersecurity tools and programming basics  
 
-🧪 Hands-On Learning
-🔹 TryHackMe – Pre Security Path (In Progress)
-Introduction to Offensive & Defensive Security
-SIEM fundamentals (log monitoring & alert analysis)
-Network fundamentals (IP, MAC, ICMP)
-LAN concepts (topologies, switching, routing)
-Protocols: ARP, DHCP
+---
 
-🎯 Current Focus
-Strengthening cybersecurity fundamentals
-Understanding security monitoring & SIEM workflows
-Building practical knowledge in networking and protocols
-🚀 Upcoming Projects
-🔍 SOC Alert Investigation Labs (LetsDefend)
-🛡️ Incident Response Documentation
-📊 SIEM Log Analysis Case Studies
-🧾 Cybersecurity Notes & Playbooks
+## 🧪 Hands-On Learning
 
-🛠 Skills Under Development
-Security Monitoring (SIEM)
-Network Analysis
-Risk Management
-Security Frameworks (NIST, CIS)
-Incident Analysis
+### 🔹 TryHackMe – Pre Security Path (In Progress)
+- Introduction to Offensive Security  
+- Introduction to Defensive Security  
+- SIEM basics (log monitoring & alert analysis)  
+- Network fundamentals (IP Address, MAC Address, ICMP)  
+- LAN concepts (topologies, switches, routers, subnetting)  
+- Protocols: ARP, DHCP  
 
-📂 Portfolio Goal
+---
 
-This repository documents my journey from beginner to job-ready SOC Analyst, focusing on:
+## 🎯 Current Focus
+- Strengthening cybersecurity fundamentals  
+- Understanding SIEM and security monitoring  
+- Building networking knowledge for security analysis  
 
-Practical cybersecurity labs
-Real-world attack & defense scenarios
-Structured investigation reports
+---
 
-🌐 Connect With Me
-LinkedIn: https://www.linkedin.com/in/omkar-shinde-897207212
+## 🚀 Upcoming Projects
 
-📌 Note
+- 🔍 SOC Alert Investigation Labs (LetsDefend)  
+- 🛡️ Incident Response Reports  
+- 📊 SIEM Log Analysis Case Studies  
+- 🧾 Cybersecurity Notes & Playbooks  
 
-I am actively learning and consistently updating this portfolio with hands-on projects and real-world simulations.
+---
+
+## 🛠 Skills Under Development
+- Security Monitoring (SIEM)  
+- Network Analysis  
+- Risk Management  
+- Security Frameworks (NIST, CIS)  
+- Incident Analysis  
+
+---
+
+## 📂 Portfolio Goal
+
+This repository documents my journey to becoming a **SOC Analyst**, focusing on:
+
+- Hands-on cybersecurity labs  
+- Real-world attack & defense scenarios  
+- Structured investigation reports  
+
+---
+
+## 🌐 Connect With Me
+- LinkedIn: https://www.linkedin.com/in/omkar-shinde-897207212  
+
+---
+
+## 📌 Note
+I am actively learning and continuously updating this portfolio with practical cybersecurity projects and labs.
