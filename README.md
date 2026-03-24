@@ -1,72 +1,58 @@
-# 👋 Hi, I'm Omkar Shinde
+🔧 Upgraded GitHub Portfolio (Professional + Impact-Oriented)
 
-Aspiring Cybersecurity Professional currently completing the **Google Cybersecurity Professional Certificate**.
+Use this refined version:
 
-I am building foundational knowledge in cybersecurity with the goal of becoming a **Security Analyst / SOC Analyst**.
+👋 Hi, I'm Omkar Shinde
 
----
+Aspiring SOC Analyst | Cybersecurity Enthusiast
 
-# 📚 Cybersecurity Learning Journey
+I am currently pursuing the Google Cybersecurity Professional Certificate and building hands-on skills through structured learning and practical labs.
 
-### Google Cybersecurity Professional Certificate (In Progress)
+With an engineering background, I bring analytical thinking and a problem-solving approach to understanding security threats, monitoring systems, and incident response.
 
-## Course 1: Foundations of Cybersecurity ✅
+📚 Cybersecurity Learning
+🔹 Google Cybersecurity Professional Certificate (In Progress)
+✅ Foundations of Cybersecurity
+🔄 Play It Safe – Manage Security Risks
 
-Key topics learned:
+Core concepts covered:
 
-• Defining cybersecurity and its importance  
-• Security analyst roles and responsibilities  
-• Core skills of security analysts  
-• The value of cybersecurity for organizations  
-• The eight cybersecurity domains  
-• Security frameworks and security controls  
-• Common security tools and programming languages used in cybersecurity  
+Cybersecurity principles and threat landscape
+Security analyst roles and responsibilities
+Security frameworks and controls (NIST, CIS)
+Security domains and risk management
+Common tools and programming concepts
+🧪 Hands-On Learning
+🔹 TryHackMe – Pre Security Path (In Progress)
+Introduction to Offensive & Defensive Security
+SIEM fundamentals (log monitoring & alert analysis)
+Network fundamentals (IP, MAC, ICMP)
+LAN concepts (topologies, switching, routing)
+Protocols: ARP, DHCP
+🎯 Current Focus
+Strengthening cybersecurity fundamentals
+Understanding security monitoring & SIEM workflows
+Building practical knowledge in networking and protocols
+🚀 Upcoming Projects
+🔍 SOC Alert Investigation Labs (LetsDefend)
+🛡️ Incident Response Documentation
+📊 SIEM Log Analysis Case Studies
+🧾 Cybersecurity Notes & Playbooks
+🛠 Skills Under Development
+Security Monitoring (SIEM)
+Network Analysis
+Risk Management
+Security Frameworks (NIST, CIS)
+Incident Analysis
+📂 Portfolio Goal
 
----
+This repository documents my journey from beginner to job-ready SOC Analyst, focusing on:
 
-## Course 2: Play It Safe – Manage Security Risks (Currently Studying)
-
-Modules completed:
-
-• Security Domains  
-• Security Frameworks and Controls  
-
-Currently continuing the remaining modules.
-
----
-
-# 🧠 Current Focus
-
-• Understanding cybersecurity fundamentals  
-• Learning risk management and security frameworks  
-• Building strong security foundations  
-
----
-
-# 📈 Upcoming Learning Plan
-
-After completing the certificate, I plan to:
-
-• Practice hands-on labs on TryHackMe  
-• Perform SOC alert investigations on LetsDefend  
-• Document cybersecurity investigations on GitHub  
-
----
-
-# 🛠 Future Skills (Currently Learning)
-
-• Security monitoring  
-• Risk management  
-• Security frameworks and controls  
-• Security analysis fundamentals  
-
----
-
-# 🌐 Connect With Me
-
+Practical cybersecurity labs
+Real-world attack & defense scenarios
+Structured investigation reports
+🌐 Connect With Me
 LinkedIn: https://www.linkedin.com/in/omkar-shinde-897207212
+📌 Note
 
-
----
-
-📌 Documenting my journey as I learn cybersecurity step by step.
+I am actively learning and consistently updating this portfolio with hands-on projects and real-world simulations.
