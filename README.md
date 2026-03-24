@@ -1,7 +1,3 @@
-🔧 Upgraded GitHub Portfolio (Professional + Impact-Oriented)
-
-Use this refined version:
-
 👋 Hi, I'm Omkar Shinde
 
 Aspiring SOC Analyst | Cybersecurity Enthusiast
