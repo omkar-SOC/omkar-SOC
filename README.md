@@ -11,8 +11,11 @@ With an engineering background, I bring strong analytical thinking, structured p
 ## 📚 Cybersecurity Learning
 
 🔹 **Google Cybersecurity Professional Certificate (In Progress)**
+
 ✅ Foundations of Cybersecurity
+
 ✅ Play It Safe – Manage Security Risks
+
 🔄 Connect and Protect: Networks and Network Security *(In Progress)*
 
 **Key concepts covered:**
