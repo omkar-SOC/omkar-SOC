@@ -22,8 +22,11 @@ My learning journey is focused on:
 ## 🔹 Google Cybersecurity Professional Certificate (In Progress)
 
 ✅ Foundations of Cybersecurity
+
 ✅ Play It Safe – Manage Security Risks
+
 ✅ Connect and Protect: Networks and Network Security
+
 🔄 Tools of the Trade: Linux and SQL *(In Progress)*
 
 ### Key Areas Explored
