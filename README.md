@@ -54,8 +54,8 @@ My learning journey is focused on:
 * TCP/IP & ICMP
 * ARP & DHCP
 * DNS Resolution Process
-* LAN concepts (switches, routers, subnetting)
-* Firewalls, VPNs, VLANs & Port Forwarding
+* LAN concepts such as switches, routers, subnetting, and network segmentation
+* Firewalls, VPNs, VLANs, and Port Forwarding
 * Network traffic flow and communication concepts
 
 ### Web Fundamentals & Security
@@ -64,7 +64,7 @@ My learning journey is focused on:
 * URL structure and request-response lifecycle
 * Frontend vs Backend architecture
 * Browser ↔ Server communication
-* Load Balancers, CDNs, Databases & WAFs
+* Load Balancers, CDNs, Databases, and WAFs
 * Sensitive Data Exposure
 * HTML Injection basics
 * Web request flow and protocols
@@ -72,8 +72,8 @@ My learning journey is focused on:
 ### Computer Fundamentals
 
 * Computer architecture basics
-* CPU, RAM, Storage, Motherboard & GPU
-* Firmware, POST & Bootloader concepts
+* CPU, RAM, Storage, Motherboard, and GPU
+* Firmware, POST, and Bootloader concepts
 * Operating system startup workflow
 * Computer boot process from a security perspective
 
@@ -99,15 +99,50 @@ Hands-on SOC-style monitoring project focused on detecting suspicious SSH login 
 ### Practical Concepts Learned
 
 * SIEM workflows
-* Threat detection & monitoring
+* Threat detection and monitoring
 * Log analysis techniques
 * Dedicated index management
 * Duplicate log troubleshooting
 * Dashboard visualization
 * Authentication event analysis
 
-📂 Repository:
+📂 Repository:  
 https://github.com/omkar-SOC/splunk-ssh-failed-login-monitoring
+
+---
+
+## 🔹 Brute Force Detection & Alerting using Splunk
+
+Hands-on SOC-style detection and alerting project focused on identifying SSH brute-force activity using Splunk Enterprise and Linux authentication logs.
+
+### Project Highlights
+
+* Uploaded Linux SSH authentication logs into a dedicated Splunk index
+* Detected failed SSH login attempts using SPL queries
+* Extracted attacker IP addresses from raw logs using `rex` and regex
+* Grouped failed login events into 5-minute windows using `bucket _time span=5m`
+* Applied threshold-based detection logic
+* Created visualizations for suspicious login activity
+* Configured a scheduled Splunk alert
+* Added triggered alert actions
+* Configured email notification using Gmail SMTP
+* Troubleshot email alert failure using Splunk internal logs
+* Fixed Gmail authentication using App Password
+* Prepared a SOC L1-style alert investigation report
+
+### Practical Concepts Learned
+
+* Detection logic development
+* Threshold tuning and alert validation
+* Scheduled alert configuration
+* Email alerting workflow
+* SMTP troubleshooting
+* Splunk internal log analysis
+* SOC L1-style investigation reporting
+* Detection engineering fundamentals
+
+📂 Repository:  
+https://github.com/omkar-SOC/splunk-brute-force-detection-alerting
 
 ---
 
@@ -123,6 +158,7 @@ Currently strengthening skills in:
 * Network Security Concepts
 * Authentication Log Analysis
 * Incident Investigation Workflows
+* Detection Engineering Basics
 
 ---
 
@@ -136,6 +172,8 @@ Currently strengthening skills in:
 * Log Analysis
 * Incident Investigation Basics
 * Authentication Monitoring
+* Alert Tuning
+* Detection Engineering Basics
 
 ## 🔹 Networking
 
@@ -174,6 +212,7 @@ Currently strengthening skills in:
 * Splunk Enterprise
 * TryHackMe
 * GitHub
+* Gmail SMTP
 
 ---
 
@@ -194,7 +233,7 @@ This GitHub portfolio documents my journey toward becoming a **SOC Analyst**, fo
 
 * Hands-on cybersecurity labs
 * SIEM & log analysis projects
-* Real-world attack & defense scenarios
+* Real-world attack and defense scenarios
 * Structured investigation reports
 * Practical application of security concepts
 * Continuous learning through projects and labs
@@ -203,10 +242,10 @@ This GitHub portfolio documents my journey toward becoming a **SOC Analyst**, fo
 
 # 🌐 Connect With Me
 
-🔗 LinkedIn
+🔗 LinkedIn  
 https://www.linkedin.com/in/omkar-shinde-897207212
 
-🔗 GitHub
+🔗 GitHub  
 https://github.com/omkar-SOC
 
 ---
